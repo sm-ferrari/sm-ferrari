@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sm-ferrari
+- 👀 I’m interested in becoming a great full stack developer
+- 🌱 I’m currently learning HTML 5 and CSS 3
